@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920431660533",
+    "firebase_url": "https://elyx-9e9e0.firebaseio.com",
+    "project_id": "elyx-9e9e0",
+    "storage_bucket": "elyx-9e9e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920431660533:android:bdcf097a6eb9208f5924bc",
+        "android_client_info": {
+          "package_name": "com.example.elyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920431660533-3f6743u3d0r4s11sg6qgetjchl40ngo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZFkPXAuXspawEVbbxpPlYEE35n4oIXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920431660533-3f6743u3d0r4s11sg6qgetjchl40ngo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
